@@ -35,6 +35,19 @@ class TakichaiHttp:
 
     return res
 
+  def get_songs():
+
+    res = requests.get(f"{TakichaiHttp.URL}/api/songs",
+      headers = TakichaiHttp.HEADERS,
+    ).json()
+
+    print("[get_songs]\t ok:", res.get('ok'), " |\t items: ", len(res.get('songs')))
+
+    if res.get('ok') == False:
+      print(res)
+
+    return res
+
 
 class TakichaiAPI:
   
@@ -48,3 +61,6 @@ class TakichaiAPI:
       ('song', (file_from_path(DEFAULT_IMG), open(song.song, 'rb') , 'audio/mpeg'))
     ]
     TakichaiHttp.post_song(payload=song.serialize(), files=files)
+
+  def get_songs(self):
+    return TakichaiHttp.get_songs().get('songs') 
