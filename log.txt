@@ -1,0 +1,53 @@
+[*] reading metadata...
+*************************************************
+[*] metadata loaded      items: 49
+[login]  ok: True       | sasukenny@gmail.com
+[post_song]      ok: True  |     Frente a frente (feat. Miren Iza)
+[post_song]      ok: True  |     Frente A Frente
+[post_song]      ok: True  |     Aunque no sea conmigo
+[post_song]      ok: True  |     Entre dos tierras
+[post_song]      ok: True  |     Sí
+[post_song]      ok: True  |     Héroe de leyenda
+[post_song]      ok: True  |     Frijolero
+[post_song]      ok: True  |     Rap Bruto
+[post_song]      ok: True  |     La Camisa Negra
+[post_song]      ok: True  |     Es Por Tí
+[post_song]      ok: True  |     A Dios Le Pido
+[post_song]      ok: True  |     Pa Dentro
+[post_song]      ok: True  |     Mala Gente
+[post_song]      ok: True  |     Sin documentos
+[post_song]      ok: True  |     Me Enamora (Album Version)
+[post_song]      ok: True  |     Nada
+[post_song]      ok: True  |     Nada Valgo Sin Tu Amor (Album Version)
+[post_song]      ok: True  |     Para Tu Amor (Album Version)
+[post_song]      ok: True  |     Yerbatero
+[post_song]      ok: True  |     Fijate Bien
+[post_song]      ok: True  |     Somos R
+[post_song]      ok: True  |     Maldito duende
+[post_song]      ok: True  |     Fumando Vamos A Casa
+[post_song]      ok: True  |     Y Mi Corazón Contento
+[post_song]      ok: True  |     Vibra Positiva
+[post_song]      ok: True  |     Un nuevo día
+[post_song]      ok: True  |     Dos Que Brillamos
+[post_song]      ok: True  |     Vibra positiva
+[post_song]      ok: True  |     Indescriptible sensación
+[post_song]      ok: True  |     Por lo que obtuve
+[post_song]      ok: True  |     Sin ver ni oir
+[post_song]      ok: True  |     Adentro
+[post_song]      ok: True  |     Ódiame
+[post_song]      ok: True  |     Mariposa Traicionera
+[post_song]      ok: True  |     Labios Compartidos
+[post_song]      ok: True  |     Amor Clandestino
+[post_song]      ok: True  |     El solitario (feat. David Hidalgo) (Diario de un borracho)
+[post_song]      ok: True  |     El día de mi suerte
+[post_song]      ok: True  |     La Camisa Negra
+[post_song]      ok: True  |     Mala Gente
+[post_song]      ok: True  |     Dos Que Brillamos
+[post_song]      ok: True  |     Fumando Vamos A Casa
+[post_song]      ok: True  |     Indescriptible sensación
+[post_song]      ok: True  |     Por lo que obtuve
+[post_song]      ok: True  |     Sin ver ni oir
+[post_song]      ok: True  |     Somos R
+[post_song]      ok: True  |     Un nuevo día
+[post_song]      ok: True  |     Vibra positiva
+[post_song]      ok: True  |     Y Mi Corazón Contento
