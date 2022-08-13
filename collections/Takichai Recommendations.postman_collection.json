@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "5ced3959-f9a4-419f-8bc7-8f3a610c314d",
+		"name": "Takichai Recommendations",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "18727656"
+	},
+	"item": [
+		{
+			"name": "General",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "{{takichai-recommendations}}/v1/recomendations"
+			},
+			"response": []
+		},
+		{
+			"name": "By Song",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
